@@ -1,2 +1,5 @@
 # hello-worlds
-Hello world program for beginners. 
+
+Hello All,
+
+Here is my first code on github. Yipppeeeee!!!
